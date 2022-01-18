@@ -1,6 +1,6 @@
 # Telegram-Notify
 
 
-wget https://raw.githubusercontent.com/gsoncini/Telegram-Notify/main/install-telegram-notify.sh
-chmod +x install-telegram-notify.sh
-./install-telegram-notify.sh
+wget https://raw.githubusercontent.com/gsoncini/Telegram-Notify/main/install-telegram-notify.sh <br>
+chmod +x install-telegram-notify.sh <br>
+./install-telegram-notify.sh <br>
