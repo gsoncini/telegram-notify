@@ -7,4 +7,4 @@ chmod +x install-telegram-notify.sh <br>
 ./install-telegram-notify.sh <br>
 
 
-### Configure your bot token and user-id > /etc/telegram-notify.conf
+### Configure your bot token and user-id: /etc/telegram-notify.conf
