@@ -14,4 +14,4 @@
 
 #### Send telegram message: <br>
 
-  /usr/local/sbin/telegram-notify --error --text "*PROBLEM* -- NODE01 Down"
+  /usr/local/sbin/telegram-notify --error --text "PROBLEM SRV-X DOWN!"
